@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lpo:home|Door43 (lpo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lpo|d43-lpo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lpo/archive/master.zip|d43-lpo.zip]]
+
+**Recent Changes**
+{{changes>ns = lpo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lpo|Ethnologue data]]
+
